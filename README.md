@@ -35,7 +35,7 @@
 
 <h3 align="left">Connect with me</h3>
 <a href="https://instagram.com/ddo_zzi_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddo_zzie" height="30" width="30" /></a> &nbsp;
-<a href="https://gmail.com/jieun776121" target="blank"><img align="center" src="https://user-images.githubusercontent.com/104711336/228295280-7c8b7075-7662-45c0-b57f-c1ec6fcd68f2.svg" alt="jieun776121" height="30" width="30" /></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jieun776121@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/104711336/228295280-7c8b7075-7662-45c0-b57f-c1ec6fcd68f2.svg" alt="jieun776121" height="30" width="30" /></a>
 <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jieunn&layout=compact"><br><br>
