@@ -7,10 +7,33 @@
 
 - 🌱 I’m currently learning **FrontEnd(React, JavaScript, TypeScript)**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/ddo_zzi_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddo_zzie" height="30" width="40" /></a>
+<h3 align="center">Tech Stack</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black">&nbsp;
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">&nbsp;  <br>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> <br>
+<h3 align="center">Tools</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/VsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white">&nbsp;  
+<img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">&nbsp;  
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">&nbsp; <br>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">&nbsp;  
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">&nbsp;  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">&nbsp;  
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">&nbsp; 
+</p>
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://instagram.com/ddo_zzi_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ddo_zzie" height="30" width="30" /></a>
+</p>
