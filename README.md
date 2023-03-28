@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/VsCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=PyCharm&logoColor=white">&nbsp;  
 <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">&nbsp;  
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">&nbsp; <br>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white">&nbsp; 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white">&nbsp;  
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">&nbsp;  
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">&nbsp;  
