@@ -1,4 +1,3 @@
-<img align="center" alt="Head" width="1000" height="200" src="https://i.pinimg.com/originals/02/22/e3/0222e349befcf90d28630d466b6e3aa8.gif">
 <h1 align="center">Hi 👋, I'm ImJieunn</h1>
 <h3 align="center">A passionate developer from South Korea</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
