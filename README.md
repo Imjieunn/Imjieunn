@@ -37,5 +37,4 @@
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=jieun776121@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/104711336/228295280-7c8b7075-7662-45c0-b57f-c1ec6fcd68f2.svg" alt="jieun776121" height="30" width="30" /></a>
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jieunn&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Jieunn&show_icons=true">
+![Jieun's github stats] (https://github-readme-stats.vercel.app/api?username=Imjieunn&show_icons=true&theme=gruvbox_light)
